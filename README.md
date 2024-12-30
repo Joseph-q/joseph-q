@@ -46,7 +46,7 @@ I define myself as a self-taught person, capable of constantly learning and impr
 ### Top Repositories
 
 <div>
-  <h4 align="center" style="border-bottom: 1px solid #fff" >SCHOOL PROJECT</h4>
+  <h4 align="center" style="border-bottom: 1px solid #fff" >Student Management</h4>
 
 
 <table align="center">
